@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5B42F3,38BDF8&height=180&section=header&text=cookiez&fontSize=42&fontColor=ffffff&fontAlign=85&fontAlignY=70" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5B42F3,38BDF8&height=180&section=header&text=Java%20Backend%20Developer&fontSize=34&fontColor=ffffff&fontAlign=75&fontAlignY=70" width="100%" alt="Header Banner" />
 
 <br/>
 
