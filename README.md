@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Hyunjung%20Lee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%26%20Spring%20Backend%20Developer&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Hyunjung%20Lee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%C2%B7%20Spring%20Backend%20Developer&descAlignY=62&descAlign=50" width="100%"/>
 
   <!-- Typing Effect -->
   <a href="https://github.com/zcookiez">
@@ -17,9 +17,7 @@
   <a href="https://github.com/zcookiez">
     <img src="https://img.shields.io/badge/GitHub-zcookiez-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzcookiez&count_bg=%232E86DE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true" alt="Hits" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=zcookiez&label=Views&color=2E86DE&style=flat-square" alt="Views" />
 
 </div>
 
@@ -64,12 +62,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zcookiez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="zcookiez's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcookiez&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zcookiez&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="zcookiez's github stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zcookiez&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zcookiez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
