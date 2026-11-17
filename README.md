@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5B42F3,38BDF8&height=180&section=header&text=Java%20Backend%20Developer&fontSize=34&fontColor=ffffff&fontAlign=75&fontAlignY=70" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5B42F3,38BDF8&height=180&section=header" width="100%" alt="Header Banner" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=Backend+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+JPA+%C2%B7+Kafka+%C2%B7+Redis" alt="Typing SVG" />
+</div>
 
 <br/>
 
